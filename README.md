@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @ElliNet13
+- 👀 I’m interested in c++ and html
+- 🌱 I’m currently learning c++ and html
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me:
+- [discord ElliNet13#0836 or https://discord.gg/zBBBPjbQW5]
+- [Email Elliotmoose4@gmail.com]
+- [Steam https://steamcommunity.com/id/ElliNet13_gamer/]
