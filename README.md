@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - [Email Elliotmoose4@gmail.com]
-- [Steam https://steamcommunity.com/id/ElliNet13_gamer/]
