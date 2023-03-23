@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElliNet13
-- 👀 I’m interested in JavaScript and html
+- 👀 I’m interested in JavaScript and html and C++
 - 🌱 I’m currently learning JavaScript and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
