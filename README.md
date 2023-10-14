@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElliNet13
-- 👀 I’m interested in JavaScript and html and C++
+- 👀 I’m interested in JavaScript, html and C++
 - 🌱 I’m currently learning JavaScript and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-- [Email Elliotmoose4@gmail.com]
+- [Email: [ellinet13mail@googlegroups.com](mailto:ellinet13mail@googlegroups.com?subject=Sent%20from%20Github)]
