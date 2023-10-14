@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning JavaScript and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-- [Email: [ellinet13mail@googlegroups.com](mailto:ellinet13mail@googlegroups.com?subject=Sent%20from%20Github)]
+- [Email: [ellinet13@googlegroups.com](mailto:ellinet13@googlegroups.com?subject=Sent%20from%20Github)]
 - [Phone number: [2484345508](tel:+12484345508)]
