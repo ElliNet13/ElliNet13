@@ -11,5 +11,5 @@
 
 <br><br>
 I'm a gamer <br>
-[![ElliNet13's Exophase Profile](https://card.exophase.com/2/0/263283.png?1717975286)](https://www.exophase.com/user/ElliNet13/)
+[![ElliNet13's Exophase Profile](https://card.exophase.com/2/0/263283.png?1717975286)](https://www.exophase.com/user/ElliNet13/)<br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/1030578173110403092)](https://discord.com/users/1030578173110403092)
