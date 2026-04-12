@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on [my site](https://github.com/ElliNet13/ElliNet13.com).
 - 📫 How to reach me:
 - Email: [ellinet13@ellinet13.com](mailto:ellinet13@ellinet13.com?subject=Sent%20from%20Github)
-- Phone number: [2484345508](tel:+12484345508)
 - [Youtube](https://bit.ly/eeeytsub)
 
     For more info about me click [here](https://bit.ly/m/ellinet13)
